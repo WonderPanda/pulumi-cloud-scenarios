@@ -1,0 +1,3 @@
+name: bastion-host-vpc-scenario
+runtime: nodejs
+description: An example of a VPC with private subnets and bastion hosts
